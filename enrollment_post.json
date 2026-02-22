@@ -1,0 +1,16 @@
+{
+  "enrollmentDate": "2026-02-20T10:30:00",
+  "student": {
+    "idStudent": 12
+  },
+  "enrollmentDetail": [
+    {
+      "course": {
+        "idCourse": 1
+      },
+      "classroom": "Aula 101"
+    }
+  ],
+  "status": true
+}
+
